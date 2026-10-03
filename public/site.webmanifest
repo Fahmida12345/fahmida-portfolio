@@ -1,0 +1,18 @@
+{
+  "name": "Fahmida Yeasmin — MERN Stack Developer",
+  "short_name": "Fahmida Yeasmin",
+  "description": "Building modern, scalable and user-focused web applications with the MERN stack.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0c0b",
+  "theme_color": "#0a0c0b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

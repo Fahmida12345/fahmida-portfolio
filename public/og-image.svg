@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Fahmida Yeasmin — MERN Stack Developer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <radialGradient id="glow" cx="22%" cy="18%" r="70%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="#0a0c0b" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+
+  <rect x="80" y="150" width="54" height="54" rx="14" fill="none" stroke="#34d399" stroke-opacity="0.45" />
+  <text x="107" y="178" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#34d399">FY</text>
+  <text x="152" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#f1f5f2">Fahmida Yeasmin</text>
+  <text x="152" y="194" font-family="Consolas, monospace" font-size="13" letter-spacing="2.4" fill="#8b978f">BANGLADESH</text>
+
+  <text x="80" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#f1f5f2">MERN Stack</text>
+  <text x="80" y="384" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="url(#accent)">Developer</text>
+
+  <text x="80" y="440" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" fill="#8b978f">Building modern, scalable and user-focused web applications.</text>
+
+  <g font-family="Consolas, monospace" font-size="18">
+    <rect x="80" y="486" width="196" height="46" rx="12" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.32" />
+    <text x="102" y="515" fill="#34d399">MongoDB</text>
+
+    <rect x="292" y="486" width="216" height="46" rx="12" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.32" />
+    <text x="314" y="515" fill="#34d399">Express.js</text>
+
+    <rect x="524" y="486" width="152" height="46" rx="12" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.32" />
+    <text x="546" y="515" fill="#34d399">React</text>
+
+    <rect x="692" y="486" width="172" height="46" rx="12" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.32" />
+    <text x="714" y="515" fill="#34d399">Node.js</text>
+  </g>
+
+  <text x="1120" y="586" text-anchor="end" font-family="Consolas, monospace" font-size="16" fill="#8b978f">github.com/Fahmida12345</text>
+</svg>
